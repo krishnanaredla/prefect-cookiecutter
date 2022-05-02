@@ -1,0 +1,9 @@
+{
+    "full_name" : "",
+    "mail" :   "",
+    "repo_name" : "Enter git repo name",
+    "git_org"   : "Enter git org",
+    "project_name" : "Enter project name",
+    "prefect_project" : "Enter prefect project name (must exist in prefect)"
+    "description" : ""
+}
