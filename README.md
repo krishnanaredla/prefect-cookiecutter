@@ -9,4 +9,4 @@ pip install cookiecutter
 Generate a Prefect Collection project:
 
 ```
-cookiecutter https://github.com/nttda328/prefect-cookiecutter
+cookiecutter https://github.com/krishnanaredla/prefect-cookiecutter
